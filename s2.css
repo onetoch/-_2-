@@ -1,0 +1,34 @@
+
+.main {
+    background-color: #119111;
+    color:#000000;
+    padding: 5px;
+}
+
+div {
+
+    background-color: #f1f1f1;
+    padding: 25px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      
+}
+footer {
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+  }
+  button {
+    background: #dc143c;
+    border-radius: 5px;
+    padding: 10px;
+    color: #fff;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+  }
+  li {
+    color: #fff;
+    text-decoration: none;
+    list-style-type: none;
+  }
